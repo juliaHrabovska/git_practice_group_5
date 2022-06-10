@@ -20,11 +20,10 @@ Test
 
 5. How to resolve a conflict in Git?
 - Manually fix changes where Git could not do it automatically and then collect everything into a commit and push
-- You have to create the repository again
-- Run git commit merge please
-- Delete a file for which Git doesn't know how to merge changes
 
 Text
 
 Pushing
-When you want to shaaaaaare a braaaaanch with the world, you need to push it up to a remmmmmmote to which you have write acceeeeeeess. Your loooooocal branches aren’t automatically synchrooooooonized to the remotes you write to — you have to explicitly push the branches you want to share. If you have a branch named serverfiiiiiiix that you want to work on with others, you can push it up the same way you pushedddddd your first branch. Run gitgitgitgitgit push <remote> <branch>:
+
+When you want to share a braaaaanch with the world, you need to push it up to a remmmmmmote to which you have write acceeeeeeess. Your loooooocal branches aren’t automatically synchrooooooonized to the remotes you write to — you have to explicitly push the branches you want to share. If you have a branch named serverfiiiiiiix that you want to work on with others, you can push it up the same way you pushedddddd your first branch. Run gitgitgitgitgit push <remote> <branch>:
+
